@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BALURAM1226
-- 🌱 I’m currently learning Node Js and Typescript 
+- 🌱 I’m currently working with Node Js and Typescript and React js
 - 💞️ I’m looking to collaborate on ...
 
 <!---
