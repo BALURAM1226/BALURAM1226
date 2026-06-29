@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-* 💼 Full Stack JavaScript Developer
+* 💼 Full Stack Developer
 * ⚛️ Specialized in React.js & Next.js
 * 🚀 Building scalable and production-ready web applications
 * 🤖 Experienced with AI-assisted development (Vibe Coding)
