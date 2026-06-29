@@ -22,7 +22,7 @@
 * 🤖 Experienced with AI-assisted development (Vibe Coding)
 * 🧠 Passionate about AI, automation, and developer productivity
 * 🌱 Currently learning Advanced Next.js, Backend Architecture & System Design
-* 🎯 Open to Full Stack Developer opportunities
+* 🎯 Open to Full Stack Developer Or Front End Developer opportunities
 
 ---
 
